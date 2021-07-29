@@ -1,0 +1,31 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float: right;
+    border:1px solid white;
+}
+#start,#status{
+    font-size: 22px;
+}
+h4{
+    background:"#f5f5f5";
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width:90%;
+}
+.modal{
+    text-align: center;
+}
+#footer{
+    width:100%;
+    bottom: 0;
+    position:fixed;
+    line-height: 3;
+}
